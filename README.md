@@ -15,7 +15,9 @@ Content-Disposition: attachment; filename="PuzzleToCoCanDa.pdf"
 
 Sau khi giải mã và giải nén thư mục:
 
-![Thư mục sau khi giải mã](images/image_02.png)
+<img width="783" height="57" alt="image" src="https://github.com/user-attachments/assets/aeb9a5cb-8bc1-48b5-b88b-2af33b3dd56a" />
+
+
 
 ---
 
