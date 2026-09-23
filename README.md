@@ -2,7 +2,8 @@
 
 Trong nhiệm vụ này, chúng ta nhận được một tập tin email cần phân tích, chứa thông tin về những người CoCanDian bị bắt cóc và con gái của ngài tổng thống. Bài lab cung cấp một file email để kiểm tra bằng ứng dụng đọc mail hoặc text editor (ví dụ: Notepad++). Bên trong email còn đính kèm một file có vẻ là PDF.
 
-![Email attachment file](images/image_01.png)
+<img width="871" height="110" alt="image" src="https://github.com/user-attachments/assets/06fca3b5-43de-4463-8d6e-3df9efe3e63c" />
+
 
 File "pdf" trước khi được giải mã:
 
